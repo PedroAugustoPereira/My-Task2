@@ -1,0 +1,19 @@
+{
+  "name": "mytask",
+  "version": "1.0.0",
+  "description": "Projeto de tasks",
+  "main": "server.js",
+  "scripts": {
+    "test": "node serer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroAugustoPereira/My-Task2.git"
+  },
+  "author": "Pedro-Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroAugustoPereira/My-Task2/issues"
+  },
+  "homepage": "https://github.com/PedroAugustoPereira/My-Task2#readme"
+}
